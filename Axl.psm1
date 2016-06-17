@@ -1,10 +1,9 @@
 #
 # Craig Petty, yttep.giarc@gmail.com
-# Digital Generation, Inc.
 # 2013
 #
 # Project home: 
-# https://code.google.com/p/axl-powershell-module/
+# https://github.com/cp880/axl-powershell-module
 #
 $ErrorActionPreference = "Stop";
 set-strictmode -version Latest
